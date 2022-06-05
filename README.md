@@ -3,10 +3,6 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 
-Frontend Mentor project for practice purposes. [Visit the live site](https://fm-entertainment.netlify.app/) 🌐
-
-![Social Cover](./client/public/social-cover.png?raw=true "Title")
-
 ## Technologies Used:
 
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> 
